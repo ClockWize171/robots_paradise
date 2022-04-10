@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robot_paradise/static/css/main.99c85264.css",
+    "main.js": "/robot_paradise/static/js/main.c6426e0e.js",
+    "static/js/787.1a69b14d.chunk.js": "/robot_paradise/static/js/787.1a69b14d.chunk.js",
+    "index.html": "/robot_paradise/index.html",
+    "main.99c85264.css.map": "/robot_paradise/static/css/main.99c85264.css.map",
+    "main.c6426e0e.js.map": "/robot_paradise/static/js/main.c6426e0e.js.map",
+    "787.1a69b14d.chunk.js.map": "/robot_paradise/static/js/787.1a69b14d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99c85264.css",
+    "static/js/main.c6426e0e.js"
+  ]
+}
